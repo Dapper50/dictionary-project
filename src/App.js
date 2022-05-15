@@ -13,7 +13,25 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Boma Dapper</small>
+          <small>
+            This project was coded by Boma Dapper and is{" "}
+            <a
+              href="https://github.com/Dapper50/dictionary-project"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {" "}
+              open-sourced on GitHub{" "}
+            </a>
+            and {""}
+            <a
+              href="https://statuesque-belekoy-a5f7a6.netlify.app"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              hosted on Netlify.
+            </a>
+          </small>
         </footer>
       </div>
     </div>

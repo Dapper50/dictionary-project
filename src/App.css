@@ -1,9 +1,9 @@
 body {
-  background: #f9f8fe;
+  background-image: linear-gradient(#cdcffb, #f1a3fb, #b1b3f1, #fffeff);
 }
 
 a {
-  color: #f9f8fe;
+  color: #f1a3fb;
 }
 .App {
   max-width: 960px;
@@ -15,7 +15,7 @@ a {
 }
 
 .App-logo {
-  max-width: 200px;
+  max-width: 100px;
   display: block;
   margin: 0 auto;
 }

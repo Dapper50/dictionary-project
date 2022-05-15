@@ -1,11 +1,11 @@
 .Dictionary h1 {
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
   margin-bottom: 15px;
 }
 
 .Dictionary section {
-  background: white;
+  background: #f9f8fe;
   padding: 10px;
   border-radius: 4px;
   box-shadow: 0 10px 20px rgb(0 0 0/10%);
@@ -15,7 +15,7 @@
   width: 100%;
   border-radius: 6px;
   padding: 6px 4px;
-  border: 1px solid #ddd;
+  border: 1px solid #f1a3fb;
   color: #333;
 }
 
